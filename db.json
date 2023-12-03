@@ -1,0 +1,651 @@
+
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Introduction to React.js",
+      "instructor": "Boss",
+      "description": "Learn the basics of React.js development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "12 weeks",
+      "schedule": "Monday and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React "],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React.js",
+          "content": "Overview of React, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Johnson",
+          "email": "Johnson@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Introduction to JavaScript",
+      "instructor": "Doe",
+      "description": "Learn the basics of JavaScript development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "18 weeks",
+      "schedule": "Tuesdays and Thursdays, 4:00 PM - 6:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic Coding knowledge", ""],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to JavaScript",
+          "content": "Overview of JavaScript, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using JavaCript components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Smith",
+          "email": "Smith@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Introduction to HTML",
+      "instructor": "John",
+      "description": "Learn the basics of HTML development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "5 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML knowledge", "Familiarity with Basic"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to HTML",
+          "content": "Overview of HTML, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using  components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "GG",
+          "email": "GG@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Johnson",
+          "email": "bobJohnson@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Introduction to TypeScript",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Introduction to CSS",
+      "instructor": "Boss",
+      "description": "Learn the basics of React.js development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "12 weeks",
+      "schedule": "Monday and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React "],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React.js",
+          "content": "Overview of React, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Johnson",
+          "email": "Johnson@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Introduction to TailwindCSS",
+      "instructor": "Doe",
+      "description": "Learn the basics of JavaScript development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "18 weeks",
+      "schedule": "Tuesdays and Thursdays, 4:00 PM - 6:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic Coding knowledge", ""],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to JavaScript",
+          "content": "Overview of JavaScript, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using JavaCript components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Smith",
+          "email": "Smith@example.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Introduction to Framer-Motion",
+      "instructor": "John",
+      "description": "Learn the basics of HTML development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "5 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML knowledge", "Familiarity with Basic"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to HTML",
+          "content": "Overview of HTML, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using  components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "GG",
+          "email": "GG@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Johnson",
+          "email": "bobJohnson@example.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Introduction to Framer-Motion",
+      "instructor": "John",
+      "description": "Learn the basics of HTML development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "5 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML knowledge", "Familiarity with Basic"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to HTML",
+          "content": "Overview of HTML, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using  components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "GG",
+          "email": "GG@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Johnson",
+          "email": "bobJohnson@example.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Introduction to SQL",
+      "instructor": "John",
+      "description": "Learn the basics of HTML development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "5 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML knowledge", "Familiarity with Basic"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to HTML",
+          "content": "Overview of HTML, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using  components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "GG",
+          "email": "GG@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Johnson",
+          "email": "bobJohnson@example.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Introduction to Python",
+      "instructor": "John",
+      "description": "Learn the basics of HTML development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "5 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML knowledge", "Familiarity with Basic"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to HTML",
+          "content": "Overview of HTML, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using  components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "GG",
+          "email": "GG@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Johnson",
+          "email": "bobJohnson@example.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Introduction to OOPS",
+      "instructor": "John",
+      "description": "Learn the basics of HTML development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "5 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML knowledge", "Familiarity with Basic"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to HTML",
+          "content": "Overview of HTML, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using  components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "GG",
+          "email": "GG@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Johnson",
+          "email": "bobJohnson@example.com"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Introduction to React.js",
+      "instructor": "Boss",
+      "description": "Learn the basics of React.js development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "12 weeks",
+      "schedule": "Monday and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React "],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React.js",
+          "content": "Overview of React, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Johnson",
+          "email": "Johnson@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob",
+          "email": "bob@example.com"
+        }
+      ]
+    },{
+      "id": 15,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Introduction to React.js",
+      "instructor": "Boss",
+      "description": "Learn the basics of React.js development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "12 weeks",
+      "schedule": "Monday and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React "],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React.js",
+          "content": "Overview of React, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Johnson",
+          "email": "Johnson@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob",
+          "email": "bob@example.com"
+        }
+      ]
+    },{
+      "id": 17,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Introduction to React.js",
+      "instructor": "Boss",
+      "description": "Learn the basics of React.js development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "12 weeks",
+      "schedule": "Monday and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React "],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React.js",
+          "content": "Overview of React, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Johnson",
+          "email": "Johnson@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob",
+          "email": "bob@example.com"
+        }
+      ]
+    }
+  ]
+}
